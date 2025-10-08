@@ -1,11 +1,19 @@
 {
   "name": "02_mypage_33796832",
   "version": "1.0.0",
+  "description": "A very small node.js eb application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HCosk/02_mypage_33796832.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/HCosk/02_mypage_33796832/issues"
+  },
+  "homepage": "https://github.com/HCosk/02_mypage_33796832#readme"
 }
