@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 const port = 8000;
-
+console.log("hello")
 const server = http.createServer((req, res) => {
   console.log("Server received a request...");
 
